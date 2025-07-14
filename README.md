@@ -1,11 +1,11 @@
-# 🧠 Hate Speech Detection using Machine Learning
+#  Hate Speech Detection using Machine Learning
 
-## 📌 Overview
+##  Overview
 This project focuses on detecting hate speech in textual data (like tweets or comments) using machine learning techniques. It aims to build an automated system that identifies whether a given text contains hate speech, offensive language, or is neutral.
 
 ---
 
-## 🎯 Objective
+##  Objective
 To build and evaluate machine learning models that can classify text into categories such as:
 - Hate Speech
 - Offensive Language
@@ -13,7 +13,7 @@ To build and evaluate machine learning models that can classify text into catego
 
 ---
 
-## 🧪 Methodology
+##  Methodology
 
 ### 1. Data Collection
 - Datasets used:
@@ -61,7 +61,7 @@ Metrics used:
 
 ---
 
-## ⚙️ Technologies Used
+##  Technologies Used
 - Python
 - Scikit-learn
 - Pandas / NumPy
@@ -72,7 +72,7 @@ Metrics used:
 
 ---
 
-## 🔐 Ethical Considerations
+##  Ethical Considerations
 - Avoid using biased or harmful datasets
 - Ensure fairness and transparency
 - Maintain user privacy
@@ -80,7 +80,7 @@ Metrics used:
 
 ---
 
-## 🔚 Conclusion
+##  Conclusion
 This project demonstrates the potential of machine learning in automating hate speech detection. With proper preprocessing and modeling, we can build robust systems that contribute to safer online communities.
 
 ---
